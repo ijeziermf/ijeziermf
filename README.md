@@ -10,7 +10,7 @@ I’m currently building cyber risk and GRC case studies that focus on practical
 
 **Tools, Frameworks, and Certifications:**
 
-My work is grounded in NIST CSF and RMF concepts and ISO 27001–aligned principles, with hands-on use of risk registers, control testing, gap analysis, and risk scoring methodologies to support clear decision-making. I hold the CompTIA Security+ and Lean Six Sigma Yellow Belt certifications and primarily use Microsoft Excel and documentation-driven workflows to support analysis and reporting.
+My work is grounded in NIST CSF/RMF concepts and ISO 27001–aligned principles, with hands-on use of risk registers, control testing, gap analysis, and risk scoring methodologies to support clear decision-making. I hold the CompTIA Security+ and Lean Six Sigma Yellow Belt certifications and primarily use Microsoft Excel and documentation-driven workflows to support analysis and reporting.
 
 **Facts About Me:**
 
