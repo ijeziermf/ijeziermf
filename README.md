@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 **Who I Am:**
+
 I’m Ifeanyi, a Governance, Risk, and Compliance (GRC) focused professional with a business management background. My approach centers on translating security and operational risk into clear, defensible business decisions that leadership can act on.
 
 **What I’m Working On:**
