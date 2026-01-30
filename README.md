@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 **Who I Am:**
-I’m Ifeanyi, a Governance, Risk, and Compliance (GRC)–focused professional with a business management background. My approach centers on translating security and operational risk into clear, defensible business decisions that leadership can act on.
+I’m Ifeanyi, a Governance, Risk, and Compliance (GRC) focused professional with a business management background. My approach centers on translating security and operational risk into clear, defensible business decisions that leadership can act on.
 
 **What I’m Working On:**
+
 I’m currently building cyber risk and GRC case studies that focus on practical risk assessments, gap analysis, and control mapping. These projects are designed to mirror real-world organizational scenarios and demonstrate how risk findings inform governance and decision-making.
 
 **Tools, Frameworks, and Certifications:**
