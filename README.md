@@ -1,39 +1,19 @@
 ## Hi there 👋
 
-**Who I Am**
+**Who I Am:**
+I’m Ifeanyi, a Governance, Risk, and Compliance (GRC)–focused professional with a business management background. My approach centers on translating security and operational risk into clear, defensible business decisions that leadership can act on.
 
-I’m Ifeanyi, a Governance, Risk, and Compliance (GRC)–focused professional with a business management background, focused on translating security risk into clear, defensible business decisions.
+**What I’m Working On:**
+I’m currently building cyber risk and GRC case studies that focus on practical risk assessments, gap analysis, and control mapping. These projects are designed to mirror real-world organizational scenarios and demonstrate how risk findings inform governance and decision-making.
 
-**What I’m Working On**
+**Tools, Frameworks, and Certifications:**
 
-Cyber risk and GRC case studies
+My work is grounded in NIST CSF and RMF concepts and ISO 27001–aligned principles, with hands-on use of risk registers, heat maps, control testing, and gap analysis. I hold the CompTIA Security+ and Lean Six Sigma Yellow Belt certifications and primarily use Excel- and documentation-driven workflows to support analysis and reporting.
 
-Risk assessments, gap analysis, and control mapping
+**Facts About Me:**
 
-Portfolio projects aligned to real-world organizational risk scenarios
+I’m a former NCAA Division I and Division II football player, which shaped how I approach work today. I’m comfortable in high-pressure, high-accountability environments and bring an athlete’s mindset to GRC—preparation, discipline, and consistent execution. That background naturally aligns with risk ownership, governance, and operating within defined controls.
 
-**Tools, Frameworks, and Certifications**
+**How to Reach Me:**
 
-Certifications: CompTIA Security+; Lean Six Sigma Yellow Belt
-
-Frameworks: NIST (CSF and RMF concepts); ISO 27001 concepts
-
-GRC Concepts: risk registers, heat maps, control testing, gap analysis
-
-Tools: Excel/Sheets, documentation and reporting workflows
-
-**Facts About Me**
-
-Former NCAA Division I and Division II football player
-
-Comfortable operating in high-accountability, high-pressure environments
-
-Naturally drawn to structure, discipline, and team-based execution
-
-Apply an athlete’s mindset to risk management: preparation, consistency, and decision-making under pressure
-
-**How to Reach Me**
-
-LinkedIn: https://www.linkedin.com
-
-Email: available upon request
+You can find me on LinkedIn at https://www.linkedin.com/in/ifeanyi-ijezie. Email is available upon request.
