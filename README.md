@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm glad you are here 👋
 
 **Who I Am:**
 
